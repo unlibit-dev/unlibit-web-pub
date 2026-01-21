@@ -1,0 +1,102 @@
+{
+    "home": {
+        "carousel": [
+            {
+                "img-src": "/images/hero-web-development-service.jpg",
+                "img-alt": "Web development service image",
+                "head": "Captivate Your Audience Online with Website",
+                "body": [
+                    "A website is your gateway to reaching a global audience, selling products, and offering services.",
+                    "We take pride in creating websites tailored to your business needs."
+                ],
+                "link": "/products-services#web-dev"
+            },
+            {
+                "img-src": "/images/hero-mobile-app-development-service.jpg",
+                "img-alt": "Mobile app development service image",
+                "head": "Put Your Business in Their Pocket with Mobile App",
+                "body": [
+                    "A mobile app keeps your business just a tap away, giving customers instant access to your products and services anytime, anywhere.",
+                    "Have an idea for a mobile app for your business? We can bring it to life!"
+                ],
+                "link": "/products-services#mobile-app-dev"
+            },
+            {
+                "img-src": "/images/hero-digital-transform-service.jpg",
+                "img-alt": "Digital transformation service image",
+                "head": "Upgrade Your Business Workflow: Embrace Technology for Efficiency",
+                "body": [
+                    "Turning office routines like HR, accounting, and asset management into digital solutions can significantly boost your business’s productivity and efficiency.",
+                    "If you're ready to integrate technology into your workflow, let's talk and explore the best solutions for your business."
+                ],
+                "link": "/products-services#digital-transform"
+            },
+            {
+                "img-src": "/images/hero-it-training-service.jpg",
+                "img-alt": "IT training service image",
+                "head": "Strengthen Your IT Skills for the Real World",
+                "body": [
+                    "Whether you're upskilling your IT team or preparing for the job market, our training programs equip you with essential expertise.",
+                    "We offer comprehensive IT development courses to prepare you for real-world work."
+                ],
+                "link": "/products-services#dev-training"
+            }
+        ],
+        "detail": "more",
+        "contact": "contact us",
+        "about-brief": "Ulibit is a trusted IT solutions company, providing high-quality services in web development, mobile app development, and more."
+    },
+    "product-service": {
+        "web-dev-section": "Web Development",
+        "web-dev-head": "Boost Your Business with a Powerful Website",
+        "web-dev-body-p1": "A website is your gateway to reaching a global audience and establishing a strong online presence. Whether you’re selling products, offering services, or building brand awareness, a well-designed website enhances credibility and engagement.",
+        "web-dev-body-p2": "We use cutting-edge technologies to develop modern, responsive websites that adapt seamlessly to any device, ensuring an optimal user experience on desktops, tablets, and smartphones.",
+        "app-dev-section": "Mobile App Development",
+        "app-dev-head": "Take Your Business to the Next Level with a Mobile App",
+        "app-dev-body-p1": "For many businesses, a mobile app provides a competitive edge by leveraging features like GPS, push notifications, and real-time engagement. Whether you're running an e-commerce store, a service platform, or a community app, mobile applications enhance accessibility and user experience.",
+        "app-dev-body-p2": "If you believe a mobile app suits your business, consult us. We develop high-quality apps for both Android and iOS, tailored to your needs.",
+        "digi-trans-section": "Digital Transformation",
+        "digi-trans-head": "Upgrade Your Workflow with Smart Technology",
+        "digi-trans-body-p1": "Say goodbye to outdated office routines and embrace technology to boost efficiency, save time, and reduce costs. Digital transformation enables businesses to automate tasks, improve collaboration, and streamline operations.",
+        "digi-trans-body-p2": "We offer innovative tools and tailored solutions to modernize your business, no matter your industry. Let us help you integrate the latest technologies for maximum productivity.",
+        "training-section": "IT Training",
+        "training-head": "Enhance Your Skills with Hands-On IT Training",
+        "training-body-p1": "Whether you're a business owner looking to upskill your IT team or a fresh graduate preparing for the job market, our training programs provide the expertise you need.",
+        "training-body-p2": "We offer comprehensive courses in web development, software engineering, mobile app development, and more. Our hands-on approach ensures trainees gain real-world skills and confidence to succeed in their careers."
+    },
+    "about": {
+        "who-are-we-head": "Who We Are",
+        "who-are-we-body": "Ulibit is a sole limited company registered under the laws of Lao P.D.R., ensuring trustworthiness in the quality and responsibility of our products and services.",
+        "what-we-do-head": "What We Do",
+        "what-we-do-body": "We provide IT solutions, including web development, mobile app development, digital transformation, and training."
+    },
+    "contact": {
+        "sub-title": "Contact Info",
+        "tel": "Tel:",
+        "whatsapp": "WhatsApp:",
+        "email": "Email:",
+        "social": "Follow",
+        "company-location-head": "Company Location",
+        "company-location-body": "House No. 1365, Phonpapao 42 Valley, Phonpapao Road, Sisattanak District, Vientiane Capital, 01030"
+    },
+    "header": [
+        {
+            "slogan": "Bring Your Creative Digital Ideas to Life with Us!"
+        },
+        {
+            "product-service-title": "Products & Services"
+        },
+        {
+            "about-title": "About Ulibit"
+        },
+        {
+            "contact-title": "Contact"
+        }
+    ],
+    "nav": {
+        "home": "Home",
+        "product-service": "Products & Services",
+        "about": "About Unlibit",
+        "contact": "Contact"
+    }
+}
